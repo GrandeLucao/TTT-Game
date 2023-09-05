@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: f0c9199180c65f342ad5d53f82c4cd5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5273388824008857063
+    second: esquerda-pe-do-tiao-sheet_0
+  - first:
+      213: -1739659943372425511
+    second: esquerda-pe-do-tiao-sheet_1
+  - first:
+      213: -8694217031038152022
+    second: esquerda-pe-do-tiao-sheet_2
+  - first:
+      213: 6177381813662854448
+    second: esquerda-pe-do-tiao-sheet_3
+  - first:
+      213: 3246333295652227397
+    second: esquerda-pe-do-tiao-sheet_4
+  - first:
+      213: 2253929763668154376
+    second: esquerda-pe-do-tiao-sheet_5
+  - first:
+      213: -8415436476818968840
+    second: esquerda-pe-do-tiao-sheet_6
+  - first:
+      213: -2642636363628328206
+    second: esquerda-pe-do-tiao-sheet_7
+  - first:
+      213: -2670714723451605377
+    second: esquerda-pe-do-tiao-sheet_8
+  - first:
+      213: -7519643684518605218
+    second: esquerda-pe-do-tiao-sheet_9
+  - first:
+      213: 3989689082548240349
+    second: esquerda-pe-do-tiao-sheet_10
+  - first:
+      213: 2649433211906452399
+    second: esquerda-pe-do-tiao-sheet_11
+  - first:
+      213: -1531867889833667420
+    second: esquerda-pe-do-tiao-sheet_12
+  - first:
+      213: -6590646954360460130
+    second: esquerda-pe-do-tiao-sheet_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429.92856
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.50970405, y: 0.8192531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aef6eddc821d6b0800000000000000
+      internalID: -5273388824008857063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396.92856
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.48059133, y: 0.48121843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d67f45af7c7bd7e0800000000000000
+      internalID: -1739659943372425511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50970405, y: 0.38707665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d1d89cafe75780800000000000000
+      internalID: -8694217031038152022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330.92856
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.46118283, y: 0.5469479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2555c7087ab550800000000000000
+      internalID: 6177381813662854448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297.92856
+        width: 32
+        height: 33.07143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549cfddbeea4d0d20800000000000000
+      internalID: 3246333295652227397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.41530725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808de10ad21974f10800000000000000
+      internalID: 2253929763668154376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231.92857
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.5194083, y: 0.6126778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe27597c1d563b80800000000000000
+      internalID: -8415436476818968840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5194083, y: 0.51881963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa47638a38735bd0800000000000000
+      internalID: -2642636363628328206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165.92857
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.4708871, y: 0.4530506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ee24ceb17bfead0800000000000000
+      internalID: -2670714723451605377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132.92857
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.54852104, y: 0.6126778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e42c2e8ebd4a790800000000000000
+      internalID: -7519643684518605218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99.92857
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.50970405, y: 0.53755933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfba8115193e5730800000000000000
+      internalID: 3989689082548240349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5291126, y: 0.47176915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6ecb087da4c420800000000000000
+      internalID: 2649433211906452399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33.92857
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.5194083, y: 0.35915178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a413a73546bdbae0800000000000000
+      internalID: -1531867889833667420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-pe-do-tiao-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9285698
+        width: 32
+        height: 33.07143
+      alignment: 9
+      pivot: {x: 0.4902956, y: 0.58450866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ca55583815984a0800000000000000
+      internalID: -6590646954360460130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
